@@ -15,6 +15,14 @@ height:auto;
     }
 
 .intermezo1 img{
+    position:relative;
     width:100%;
+}
+
+.logo{
+    width: 170px;
+    left: 15px;
+    height:auto;
+    background-size: contain;
 }
 
